@@ -1,0 +1,9 @@
+https://github.com/erdiolmezogullari/ml-spam-sms-classification/blob/master/model.ipynb
+
+Regression ML:
+House price prediction
+Car price prediction
+Gold price prediction
+Medical insuarance cost prediction
+Big Mart Sales prediction
+Calories Burnt prediction
